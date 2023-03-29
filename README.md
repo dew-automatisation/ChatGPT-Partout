@@ -6,7 +6,7 @@ Utiliser ChatGPT n'importe où sur votre PC avec un raccourci clavier : CTRL+ALT
 Entrer votre clé API OpenAI dans les paramètres. 
 
 
-![Screenshot](screenshot.gif)
+![Screenshot](screenshot1.gif)
 ![Screenshot](screenshot2.jpg)
 
 
