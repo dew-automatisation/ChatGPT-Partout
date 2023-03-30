@@ -5,6 +5,7 @@ Utiliser ChatGPT n'importe où sur votre PC avec un raccourci clavier : CTRL+ALT
 
 Entrer votre clé API OpenAI dans les paramètres. 
 
+Les antivirus peuvent le bloquer.
 
 ![Screenshot](screenshot1.gif)
 ![Screenshot](screenshot2.jpg)
@@ -12,24 +13,18 @@ Entrer votre clé API OpenAI dans les paramètres.
 
 Si vous souhaitez utiliser le script python directement. Il faut installer les bibliotheques :
 
-```
-
+``` python
 pip install tkinter ttkthemes requests keyboard pyperclip pyautogui configparser
-
 ```
 
 Vous pouvez aussi compiller le script par vous même avec : 
 
 ```
-
 pip install pyinstaller
-
 ```
 
 ```
-
 pyinstaller --onefile --noconsole chatgpt.py
-
 ```
 
 Mes liens :
