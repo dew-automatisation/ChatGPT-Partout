@@ -31,6 +31,6 @@ Mes liens :
 
 Chaine youtube : https://www.youtube.com/channel/UCNFED93Cb1U6-QnrVXZlBkw
 
-Forum : https://forumentrepreneurweb.fr/
+Le blog : https://devenirentrepreneurweb.fr
 
 Formation : https://devenirentrepreneurweb.fr/formations/
